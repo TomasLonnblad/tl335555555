@@ -27,13 +27,13 @@ function Navbar({ className }: { className?: string }) {
             <ProductItem
               title="Algochurn"
               href="https://algochurn.com"
-              src="https://assets.aceternity.com/demos/algochurn.webp"
+              src="https://tomaslonnblad.github.io/earth2-640.jpg"
               description="Prepare for tech interviews like never before."
             />
             <ProductItem
               title="Tailwind Master Kit"
               href="https://tailwindmasterkit.com"
-              src="https://assets.aceternity.com/demos/tailwindmasterkit.webp"
+              src="https://tomaslonnblad.github.io/moves-640.jpg"
               description="Production ready Tailwind css components for your next project"
             />
             <ProductItem
