@@ -26,25 +26,25 @@ function Navbar({ className }: { className?: string }) {
           Shaders">
           <div className="  text-sm grid grid-cols-2 gap-10 p-4">
             <ProductItem
-              title="Algochurn"
-              href="https://algochurn.com"
+              title="Earth "
+              href="https://tomaslonnblad.github.io/tl2221111111111/"
               src="https://tomaslonnblad.github.io/earth2-640.jpg"
               description="Prepare for tech interviews like never before."
             />
             <ProductItem
-              title="Tailwind Master Kit"
+              title="Bubble"
               href="https://tomaslonnblad.github.io/tl22211111/"
               src="https://tomaslonnblad.github.io/moves-640.jpg"
               description="Production ready Tailwind css components for your next project"
             />
             <ProductItem
-              title="Moonbeam"
+              title="Tricky"
               href="https://tomaslonnblad.github.io/tl2222111111/"
               src="https://tomaslonnblad.github.io/black-640.jpg"
               description="Never write from scratch again. Go from idea to blog in minutes."
             />
             <ProductItem
-              title="Rogue"
+              title="Different view"
               href="https://tomaslonnblad.github.io/tl33555555"
               src="https://tomaslonnblad.github.io/dotts-640.jpg"
               description="Respond to government RFPs, RFIs and RFQs 10x faster using AI"
