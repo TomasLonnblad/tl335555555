@@ -29,7 +29,7 @@ export default function AuroraBackgroundDemo() {
         </div>
         <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
           
-        </div><a href="https://tomaslonnblad.github.io/tl999">
+        </div><a href="https://tomaslonnblad.github.io/tl335">
         <button className="bg-blue-500 dark:bg-transparent rounded-full w-fit text-white dark:text-black px-4 py-2">
           Main page 
         </button></a>
