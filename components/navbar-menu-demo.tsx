@@ -22,7 +22,8 @@ function Navbar({ className }: { className?: string }) {
     >
       <Menu setActive={setActive}>
 
-        <MenuItem setActive={setActive} active={active} item="Products">
+        <MenuItem setActive={setActive} active={active} item="
+          Shaders">
           <div className="  text-sm grid grid-cols-2 gap-10 p-4">
             <ProductItem
               title="Algochurn"
