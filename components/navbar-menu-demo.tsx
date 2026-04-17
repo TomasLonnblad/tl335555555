@@ -29,25 +29,25 @@ function Navbar({ className }: { className?: string }) {
               title="Earth "
               href="https://tomaslonnblad.github.io/tl2221111111111/"
               src="https://tomaslonnblad.github.io/earth2-640.jpg"
-              description="Prepare for tech interviews like never before."
+              description="Earth view contakt."
             />
             <ProductItem
               title="Bubble"
               href="https://tomaslonnblad.github.io/tl22211111/"
               src="https://tomaslonnblad.github.io/moves-640.jpg"
-              description="Production ready Tailwind css components for your next project"
+              description="Bubble "
             />
             <ProductItem
               title="Tricky"
               href="https://tomaslonnblad.github.io/tl2222111111/"
               src="https://tomaslonnblad.github.io/black-640.jpg"
-              description="Never write from scratch again. Go from idea to blog in minutes."
+              description="Tricky."
             />
             <ProductItem
               title="Different view"
               href="https://tomaslonnblad.github.io/tl33555555"
               src="https://tomaslonnblad.github.io/dotts-640.jpg"
-              description="Respond to government RFPs, RFIs and RFQs 10x faster using AI"
+              description="Different views"
             />
           </div>
         </MenuItem>
