@@ -45,7 +45,7 @@ function Navbar({ className }: { className?: string }) {
             />
             <ProductItem
               title="Different view"
-              href="https://tomaslonnblad.github.io/tl33555555"
+              href="https://tomaslonnblad.github.io/g5"
               src="https://tomaslonnblad.github.io/dotts-640.jpg"
               description="Different views"
             />
